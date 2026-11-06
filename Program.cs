@@ -7,5 +7,10 @@ decimal y=20.5m;
 string name="abebe";
 bool isTRue=true;
 DateTime date=DateTime.Now;
-console.WriteLine(date);
+Console.WriteLine(date);
+ var n = new List<string>();
+
+n.AddRange("abebe");
+
+Console.WriteLine(n[0]);
 
