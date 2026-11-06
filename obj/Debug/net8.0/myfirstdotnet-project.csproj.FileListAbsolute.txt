@@ -12,3 +12,4 @@
 /home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.pdb
 /home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.genruntimeconfig.cache
 /home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/ref/myfirstdotnet-project.dll
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.sourcelink.json
