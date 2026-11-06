@@ -24,3 +24,16 @@ Console.WriteLine("Write your name:");
 var user = Console.ReadLine();
 
 Console.WriteLine($"Hello, {user}");
+string b= "123";
+ var c=int.Parse(b);
+ Console.WriteLine(c + 100);
+ var tot= 35;
+ if(tot> 30)
+ {
+    Console.WriteLine("lessthan");
+ }
+ else
+ {
+    Console.WriteLine("greater");
+ }
+ 
