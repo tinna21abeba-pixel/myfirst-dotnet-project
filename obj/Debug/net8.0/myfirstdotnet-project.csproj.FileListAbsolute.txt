@@ -1,0 +1,14 @@
+/home/thesh/Desktop/myfirstdotnet-project/bin/Debug/net8.0/myfirstdotnet-project
+/home/thesh/Desktop/myfirstdotnet-project/bin/Debug/net8.0/myfirstdotnet-project.deps.json
+/home/thesh/Desktop/myfirstdotnet-project/bin/Debug/net8.0/myfirstdotnet-project.runtimeconfig.json
+/home/thesh/Desktop/myfirstdotnet-project/bin/Debug/net8.0/myfirstdotnet-project.dll
+/home/thesh/Desktop/myfirstdotnet-project/bin/Debug/net8.0/myfirstdotnet-project.pdb
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.AssemblyInfoInputs.cache
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.AssemblyInfo.cs
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.csproj.CoreCompileInputs.cache
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.dll
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/refint/myfirstdotnet-project.dll
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.pdb
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/myfirstdotnet-project.genruntimeconfig.cache
+/home/thesh/Desktop/myfirstdotnet-project/obj/Debug/net8.0/ref/myfirstdotnet-project.dll
