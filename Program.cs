@@ -36,4 +36,16 @@ string b= "123";
  {
     Console.WriteLine("greater");
  }
- 
+  switch(tot)
+  {
+    case 30:
+        Console.WriteLine("greater 30");
+        break;
+   case 35: 
+      Console.WriteLine("greater 35");
+      break;
+   default:
+    Console.WriteLine("good");
+    break;
+  }
+  
